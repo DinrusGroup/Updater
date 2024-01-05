@@ -1,2 +1,2 @@
 # Updater
-Web Installer/Updater module
+Модуль Веб-Установщика/Обновителя
